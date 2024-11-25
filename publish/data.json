@@ -1,0 +1,22 @@
+﻿{
+  "EmployeeName": "Jane Doe",
+  "Position": "Senior Developer",
+  "Criteria": [
+    {
+      "Name": "Keterampilan Teknis",
+      "Score": 5,
+      "Feedback": "Keterampilan pemecahan masalah yang luar biasa."
+    },
+    {
+      "Name": "Komunikasi",
+      "Score": 4,
+      "Feedback": "Komunikator yang jelas dan ringkas."
+    },
+    {
+      "Name": "Kepemimpinan",
+      "Score": 4,
+      "Feedback": "Memimpin tim dengan efektif."
+    }
+  ],
+  "GeneralFeedback": "Kinerja luar biasa secara keseluruhan."
+}
